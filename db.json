@@ -99,7 +99,7 @@
       "nome": "Felipe Ramos",
       "posicao": "ATA",
       "nota": 5,
-      "ativo": "S"
+      "ativo": "N"
     },
     {
       "id": 12,
@@ -190,7 +190,7 @@
       "nome": "César",
       "posicao": "GOL",
       "nota": 1,
-      "ativo": "S"
+      "ativo": "N"
     },
     {
       "id": 25,
